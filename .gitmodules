@@ -4,3 +4,6 @@
 [submodule "castle_masonry"]
 	path = castle_masonry
 	url = git://github.com/minetest-mods/castle_masonry.git
+[submodule "crafting_bench"]
+	path = crafting_bench
+	url = git://github.com/minetest-mods/crafting_bench.git
