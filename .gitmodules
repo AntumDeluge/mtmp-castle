@@ -1,9 +1,27 @@
-[submodule "castle_weapons"]
-	path = castle_weapons
-	url = git://github.com/minetest-mods/castle_weapons.git
+[submodule "castle_farming"]
+	path = castle_farming
+	url = git://github.com/minetest-mods/castle_farming.git
+[submodule "castle_gates"]
+	path = castle_gates
+	url = git://github.com/minetest-mods/castle_gates.git
+[submodule "castle_lighting"]
+	path = castle_lighting
+	url = git://github.com/minetest-mods/castle_lighting.git
 [submodule "castle_masonry"]
 	path = castle_masonry
 	url = git://github.com/minetest-mods/castle_masonry.git
+[submodule "castle_shields"]
+	path = castle_shields
+	url = git://github.com/minetest-mods/castle_shields.git
+[submodule "castle_storage"]
+	path = castle_storage
+	url = git://github.com/minetest-mods/castle_storage.git
+[submodule "castle_tapestries"]
+	path = castle_tapestries
+	url = git://github.com/minetest-mods/castle_tapestries.git
+[submodule "castle_weapons"]
+	path = castle_weapons
+	url = git://github.com/minetest-mods/castle_weapons.git
 [submodule "crafting_bench"]
 	path = crafting_bench
 	url = git://github.com/minetest-mods/crafting_bench.git
