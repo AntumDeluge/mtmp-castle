@@ -1,3 +1,6 @@
 [submodule "castle_weapons"]
 	path = castle_weapons
 	url = git://github.com/minetest-mods/castle_weapons.git
+[submodule "castle_masonry"]
+	path = castle_masonry
+	url = git://github.com/minetest-mods/castle_masonry.git
